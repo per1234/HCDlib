@@ -18,7 +18,7 @@
 #ifndef _BK2421
 #define _BK2421
 
-#include <arduino.h>
+#include <Arduino.h>
 #include "blocks.h"
 
 #define SET(x,y) (x |=(1<<y))					//-Bit set/clear macros
